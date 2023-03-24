@@ -1,4 +1,4 @@
-# frontend
+# graduate-work-frontend
 
 ## Project setup
 ```
